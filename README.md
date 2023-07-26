@@ -45,6 +45,10 @@
 
 <h3>Apenas adicione suas tarefas :)</h3>
 
+<br>
+<hr>
+<br>
+
 <strong><h2>Usage guide:</h2></strong>
 
 <strong><h2>First step:</h2></strong>
