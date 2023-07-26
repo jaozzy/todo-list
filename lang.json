@@ -1,0 +1,46 @@
+{
+    "lang": "pt",
+    "translations": {
+      "en": {
+        "welcome_message": "Hello! I am your task manager!",
+        "show_tasks": "Show tasks list.",
+        "follow": "Press Enter to continue...",
+        "choose_option": "Choose an option:",
+        "complete_task": "Mark task as completed.",
+        "complete_task_input": "Enter the task number you want to mark as completed:",
+        "complete_task_success": "Task with index {task_number} marked as completed successfuly.",
+        "delete_task": "Delete task",
+        "delete_task_input": "Enter the task number you want to delete:",
+        "delete_task_success": "Task with Index {task_number} deleted successfully.",
+        "delete_all_tasks": "Delete all tasks.",
+        "delete_all_tasks_success": "All tasks have been deleted.",
+        "add_task_input": "Enter the task you want to add:",
+        "add_task": "Add task.",
+        "exit": "Leave.",
+        "no_tasks": "Your tasks list is empty.",
+        "task": "Task",
+        "no_option": "None of options."
+      },
+      "pt": {
+        "welcome_message": "Olá! Sou seu gerenciador de tarefas!",
+        "show_tasks": "Mostrar lista de tarefas.",
+        "follow": "Pressione Enter para continuar...",
+        "choose_option": "Escolha uma opção:",
+        "complete_task": "Marcar tarefa como concluída",
+        "complete_task_input": "Digite o número da tarefa que deseja marcar como concluída:",
+        "complete_task_success": "Tarefa de Índice {task_number} marcada como concluída com sucesso.",
+        "delete_task": "Deletar tarefa.",
+        "delete_task_input": "Digite o número da tarefa que deseja excluir:",
+        "delete_task_success": "Tarefa de Índice {task_number} excluída com sucesso.",
+        "delete_all_tasks": "Deletar todas as tarefas.",
+        "delete_all_tasks_success": "Todas as tarefas foram excluídas!",
+        "add_task_input": "Digite a tarefa que deseja adicionar:",
+        "add_task": "Adicionar tarefa",
+        "exit": "Sair.",
+        "no_tasks": "Sua lista de tarefas está vazia.",
+        "task": "Tarefa",
+        "no_option": "Nenhuma das opções."
+      }
+    }
+  }
+  
